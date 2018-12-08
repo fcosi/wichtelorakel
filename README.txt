@@ -2,6 +2,8 @@ README for the wichtel oracle
 
 The following instructions assume an executable mainWichteln of the C++ code mainWichteln.cpp already existed and was succesfully compiled.
 
+Author of mainWichtel.cpp: Munir Salman, TUM
+
 ====================================================
 
 INSTRUCTIONS for faster execution of the oracle with a Unix machine:
